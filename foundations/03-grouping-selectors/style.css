@@ -7,3 +7,7 @@
     background-color: #000000;
     color: #ffffff;
 }
+
+.action-button.btn-click-me-no {
+    background-color: #ffd700;
+}
