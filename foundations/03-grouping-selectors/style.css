@@ -1,13 +1,13 @@
-.action-button {
+.btn-click-me, .btn-click-me-no {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.action-button.btn-click-me {
+.btn-click-me {
     background-color: #000000;
     color: #ffffff;
 }
 
-.action-button.btn-click-me-no {
+.btn-click-me-no {
     background-color: #ffd700;
 }
