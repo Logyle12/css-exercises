@@ -11,3 +11,9 @@
     color: rgb(0, 162, 255);
     font-size: 36px;
 }
+
+#fourth-element {
+    background-color: rgba(17, 255, 0, 0.445);
+    font-size: 24px;
+    font-weight: 700;
+}
