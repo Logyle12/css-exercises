@@ -41,6 +41,8 @@ body {
 .header-content {
   display: flex;
   margin-bottom: 8px;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .header {
