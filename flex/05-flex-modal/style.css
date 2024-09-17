@@ -43,6 +43,11 @@ body {
   margin-bottom: 8px;
 }
 
+.header {
+  font-size: 18px;
+  font-weight: 700;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
