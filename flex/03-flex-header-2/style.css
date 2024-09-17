@@ -57,4 +57,5 @@ ul {
   display: flex;
   padding: 0px;
   margin: 0px;
+  gap: 16px;
 }
