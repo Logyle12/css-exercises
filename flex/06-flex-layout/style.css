@@ -31,6 +31,10 @@ input {
   display: flex;
 }
 
+.header, .footer {
+  justify-content: space-between;
+}
+
 .left-links, .right-links {
   list-style: none;
 }
