@@ -50,3 +50,7 @@ input {
   padding: 0px;
   gap: 16px;
 }
+
+a {
+  text-decoration: none;
+}
