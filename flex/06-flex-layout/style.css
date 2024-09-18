@@ -33,6 +33,7 @@ input {
 
 .header, .footer {
   justify-content: space-between;
+  padding: 16px;
 }
 
 .content {
