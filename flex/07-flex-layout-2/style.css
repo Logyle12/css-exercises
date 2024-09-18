@@ -18,6 +18,10 @@ body {
   color: darkmagenta;
 }
 
+.container {
+  display: flex;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
