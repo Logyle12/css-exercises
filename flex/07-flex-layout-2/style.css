@@ -46,3 +46,7 @@ ul {
   padding: 0px;
   margin: 0px;
 }
+
+li {
+  margin-bottom: 16px;
+}
