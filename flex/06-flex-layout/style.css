@@ -30,3 +30,7 @@ input {
 .header, .footer, .left-links, .right-links {
   display: flex;
 }
+
+.left-links, .right-links {
+  list-style: none;
+}
